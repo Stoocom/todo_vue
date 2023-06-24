@@ -1,14 +1,10 @@
 # vue_todo
 
-This template should help get you started developing with Vue 3 in Vite.
+Name of Project: Lazy Todo List.
 
-## Recommended IDE Setup
+Created by Vue 3 Vuex 4 and localstorage.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Enjoy!
 
 ## Project Setup
 
